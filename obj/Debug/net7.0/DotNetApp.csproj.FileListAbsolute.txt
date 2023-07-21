@@ -1,0 +1,15 @@
+/Users/ruthschool/Desktop/DotNetApp/bin/Debug/net7.0/DotNetApp
+/Users/ruthschool/Desktop/DotNetApp/bin/Debug/net7.0/DotNetApp.deps.json
+/Users/ruthschool/Desktop/DotNetApp/bin/Debug/net7.0/DotNetApp.runtimeconfig.json
+/Users/ruthschool/Desktop/DotNetApp/bin/Debug/net7.0/DotNetApp.dll
+/Users/ruthschool/Desktop/DotNetApp/bin/Debug/net7.0/DotNetApp.pdb
+/Users/ruthschool/Desktop/DotNetApp/obj/Debug/net7.0/DotNetApp.csproj.AssemblyReference.cache
+/Users/ruthschool/Desktop/DotNetApp/obj/Debug/net7.0/DotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruthschool/Desktop/DotNetApp/obj/Debug/net7.0/DotNetApp.AssemblyInfoInputs.cache
+/Users/ruthschool/Desktop/DotNetApp/obj/Debug/net7.0/DotNetApp.AssemblyInfo.cs
+/Users/ruthschool/Desktop/DotNetApp/obj/Debug/net7.0/DotNetApp.csproj.CoreCompileInputs.cache
+/Users/ruthschool/Desktop/DotNetApp/obj/Debug/net7.0/DotNetApp.dll
+/Users/ruthschool/Desktop/DotNetApp/obj/Debug/net7.0/refint/DotNetApp.dll
+/Users/ruthschool/Desktop/DotNetApp/obj/Debug/net7.0/DotNetApp.pdb
+/Users/ruthschool/Desktop/DotNetApp/obj/Debug/net7.0/DotNetApp.genruntimeconfig.cache
+/Users/ruthschool/Desktop/DotNetApp/obj/Debug/net7.0/ref/DotNetApp.dll
