@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ecq2QTLG3p+mj9yL3k0i1Q0nS03TAxmzaKe3KDWsyzAc75ZYNZJ2sUNb11uiG+8BGtkmseSJSkAXWsDFoRszcw==",
+  "success": true,
+  "projectFilePath": "/Users/ruthschool/Desktop/DotNetApp/BulkyWeb/BulkyWeb.csproj",
+  "expectedPackageFiles": [
+    "/Users/ruthschool/.nuget/packages/microsoft.netcore.app.ref/7.0.8/microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "/Users/ruthschool/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.8/microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "/Users/ruthschool/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.8/microsoft.netcore.app.host.osx-x64.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
